@@ -1,0 +1,6 @@
+{
+  "name": "silk-relay16",
+  "dependencies": {
+    "silk": ">=0.13.0 <1.0.0"
+  }
+}
